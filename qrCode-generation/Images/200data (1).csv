@@ -1,0 +1,689 @@
+A;B;C;;;;;
+;;;;;;;
+ID;Date;Code;;Sign;Number;isDone;Name
+BDCQ.SEA1LA;2019.09;31475;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1LA;2019.12;33344;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1LA;2020.03;33516;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1LA;2020.06;32540;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1LA;2020.09;31328;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2011.06;113336;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2011.09;111737;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2011.12;113102;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2012.03;112530;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2012.06;114469;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2012.09;114878;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2012.12;116590;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2013.03;120519;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2013.06;123086;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2013.09;120914;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2013.12;122773;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2014.03;123278;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2014.06;125667;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2014.09;124840;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2014.12;128593;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2015.03;129410;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2015.06;131492;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2015.09;131312;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2015.12;133253;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2016.03;133729;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2016.06;136481;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2016.09;137207;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2016.12;139692;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2017.03;140933;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2017.06;143916;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2017.09;143132;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2017.12;147489;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2018.03;148620;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2018.06;151583;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2018.09;151771;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2018.12;156164;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2019.03;157020;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2019.06;158650;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2019.09;157392;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2019.12;157885;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2020.03;158806;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2020.06;157393;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1MA;2020.09;157428;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2011.06;82446;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2011.09;77101;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2011.12;76867;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2012.03;74822;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2012.06;83265;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2012.09;76412;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2012.12;76792;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2013.03;76688;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2013.06;83833;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2013.09;78564;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2013.12;80154;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2014.03;80581;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2014.06;86735;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2014.09;81593;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2014.12;85544;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2015.03;86612;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2015.06;92087;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2015.09;85440;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2015.12;88082;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2016.03;89653;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2016.06;97910;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2016.09;90591;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2016.12;93823;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2017.03;93460;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2017.06;103803;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2017.09;95891;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2017.12;97189;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2018.03;99838;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2018.06;107316;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2018.09;95449;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2018.12;98322;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2019.03;100017;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2019.06;106339;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2019.09;97348;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2019.12;99409;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2020.03;99649;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2020.06;105292;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1NA;2020.09;93529;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2011.06;103160;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2011.09;102008;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2011.12;107257;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2012.03;103556;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2012.06;103524;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2012.09;103418;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2012.12;106386;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2013.03;107210;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2013.06;107628;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2013.09;108445;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2013.12;109492;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2014.03;110338;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2014.06;110256;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2014.09;115195;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2014.12;113128;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2015.03;112912;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2015.06;112617;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2015.09;112333;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2015.12;113739;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2016.03;115181;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2016.06;115009;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2016.09;115074;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2016.12;116151;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2017.03;117336;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2017.06;117498;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2017.09;119675;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2017.12;120847;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2018.03;120488;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2018.06;122401;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2018.09;123011;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2018.12;125635;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2019.03;131719;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2019.06;133510;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2019.09;134700;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2019.12;138194;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2020.03;139917;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2020.06;140254;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1OA;2020.09;142520;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2011.06;177012;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2011.09;178828;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2011.12;176117;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2012.03;150776;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2012.06;178224;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2012.09;177101;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2012.12;174052;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2013.03;152256;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2013.06;179436;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2013.09;179945;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2013.12;177138;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2014.03;154276;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2014.06;180818;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2014.09;181819;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2014.12;178967;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2015.03;155841;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2015.06;183499;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2015.09;184196;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2015.12;180875;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2016.03;157885;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2016.06;184535;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2016.09;187722;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2016.12;184511;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2017.03;160762;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2017.06;189249;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2017.09;190852;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2017.12;187944;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2018.03;172930;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2018.06;191265;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2018.09;193471;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2018.12;191337;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2019.03;176612;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2019.06;195638;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2019.09;198564;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2019.12;199556;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2020.03;191948;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2020.06;195847;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1PA;2020.09;197156;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2011.06;195982;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2011.09;197655;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2011.12;199269;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2012.03;198554;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2012.06;201120;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2012.09;200942;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2012.12;202584;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2013.03;201568;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2013.06;204548;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2013.09;204361;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2013.12;205060;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2014.03;205974;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2014.06;208733;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2014.09;208762;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2014.12;207787;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2015.03;207718;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2015.06;212290;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2015.09;212906;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2015.12;214428;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2016.03;212636;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2016.06;216059;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2016.09;216340;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2016.12;218821;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2017.03;217753;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2017.06;220946;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2017.09;221147;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2017.12;222950;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2018.03;222710;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2018.06;224439;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2018.09;225374;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2018.12;226461;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2019.03;226096;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2019.06;229053;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2019.09;231233;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2019.12;236208;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2020.03;235945;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2020.06;236525;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1QA;2020.09;239081;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2011.06;35520;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2011.09;36821;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2011.12;37101;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2012.03;35796;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2012.06;35008;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2012.09;35652;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2012.12;35301;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2013.03;34599;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2013.06;35007;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2013.09;35890;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2013.12;36114;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2014.03;35523;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2014.06;35671;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2014.09;36458;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2014.12;37049;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2015.03;36030;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2015.06;36327;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2015.09;36906;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2015.12;37605;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2016.03;36696;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2016.06;37554;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2016.09;38375;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2016.12;38940;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2017.03;38055;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2017.06;38673;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2017.09;39364;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2017.12;39652;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2018.03;39038;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2018.06;38960;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2018.09;39962;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2018.12;40866;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2019.03;40155;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2019.06;40094;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2019.09;41542;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2019.12;42605;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2020.03;41344;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2020.06;38771;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1RA;2020.09;38918;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2011.06;56432;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2011.09;56668;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2011.12;57312;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2012.03;56528;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2012.06;56414;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2012.09;55785;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2012.12;56118;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2013.03;56166;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2013.06;56334;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2013.09;55894;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2013.12;56518;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2014.03;56532;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2014.06;57120;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2014.09;57099;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2014.12;58261;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2015.03;57747;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2015.06;58972;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2015.09;58454;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2015.12;59291;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2016.03;58485;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2016.06;60431;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2016.09;60455;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2016.12;61068;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2017.03;60884;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2017.06;61790;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2017.09;62279;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2017.12;63274;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2018.03;63297;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2018.06;64178;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2018.09;63884;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2018.12;64734;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2019.03;64336;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2019.06;65881;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2019.09;65748;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2019.12;67153;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2020.03;67025;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2020.06;66653;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1SA;2020.09;67317;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2011.06;1726903;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2011.09;1725143;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2011.12;1755056;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2012.03;1728944;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2012.06;1757353;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2012.09;1737734;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2012.12;1769188;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2013.03;1757319;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2013.06;1788381;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2013.09;1773070;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2013.12;1814973;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2014.03;1803851;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2014.06;1828241;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2014.09;1823083;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2014.12;1862582;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2015.03;1851554;;F;Number;0;Business Data Collection - BDC
+BDCQ.SEA1ZA;2015.06;1880971;;F;Number;0;Business Data Collection - BDC
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
+BDCQ.SEA2JA;;;;;;;
