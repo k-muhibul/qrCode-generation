@@ -32,11 +32,9 @@ namespace qrCode_generation.Controllers
         {
             try
             {
+                
                 if (file != null && file.ContentLength > 0)
                 {
-                    string _FileName = Path.GetFileName(file.FileName);
-                    string _path = Path.Combine(Server.MapPath("~/Images"), _FileName);
-                    file.SaveAs(_path);
                     PdfDocument doc = new PdfDocument();
 
                     PdfPageBase page = doc.Pages.Add();
@@ -53,9 +51,9 @@ namespace qrCode_generation.Controllers
                     grid.Columns[3].Width = width * 0.20f;
                     grid.Columns[4].Width = width * 0.20f;
 
-                    grid.Rows[0].Height = width * 0.13f;
+                    grid.Rows[0].Height = width * 0.15f;
 
-                    grid.Rows[1].Height = width * 0.13f;
+                    grid.Rows[1].Height = width * 0.15f;
 
                     string outputPDFfile = "D:/qrPdf1.pdf";
 
@@ -67,13 +65,23 @@ namespace qrCode_generation.Controllers
                     {
                         byte[] binData = b.ReadBytes(file.ContentLength);
                         resultLine = System.Text.Encoding.UTF8.GetString(binData);
-                        string[] csvData = new string[] { };
+                        string[] csv = new string[] { };
+                        List<string> csvData = new List<string>();
 
-                        csvData = resultLine.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None);
-                        for (var l = 0; l < csvData.Length-2; l++)
+                        csv = resultLine.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None);
+                        for(int i=0;i<csv.Length;i++)
+                        {
+                            if(csv[i]=="")
+                            {
+                                break;
+                            }
+                            csvData.Add(csv[i]);
+                            
+                        }
+                        for (var l = 0; l < csvData.Count-2; l++)
                         {
 
-                            if (l < csvData.Length - 3)
+                            if (l < csvData.Count - 3)
                             {
                                 row = grid.Rows.Add();
                                 grid.Rows[l + 1].Height = grid.Rows[l].Height;
@@ -81,27 +89,35 @@ namespace qrCode_generation.Controllers
                             else grid.Rows[l].Height = grid.Rows[0].Height;
                         }
                         int z, g;
-                        for (z = 0, g = 1; g < csvData.Length-1; z++,g++)
+                        for (z = 0, g = 1; g < csvData.Count-1; z++,g++)
                         {
                             QRCodeGenerator qrGenerator = new QRCodeGenerator();
                             
                             QRCodeData qrCodeData = qrGenerator.CreateQrCode(csvData[g], QRCodeGenerator.ECCLevel.Q);
                             QRCode qrCode = new QRCode(qrCodeData);
-                            Bitmap qrCodeImage = qrCode.GetGraphic(1);
+                            Bitmap qrCodeImage = qrCode.GetGraphic(35);
                             var codeBitmap = new Bitmap(qrCodeImage);
                             Image image = (Image)codeBitmap;
                             PdfGridCellContentList lst = new PdfGridCellContentList();
 
                             PdfGridCellContent textAndStyle = new PdfGridCellContent();
+                            PdfGridCellContent text = new PdfGridCellContent();
+                            PdfGridCellContent full = new PdfGridCellContent();
                             textAndStyle.Image = PdfImage.FromImage(image);
 
                             textAndStyle.ImageSize = new SizeF(65, 65);
 
+                            var codeNo = csvData[g].Split(new string[] { "," }, StringSplitOptions.None);
+                            
+                            text.Text = "\n" + codeNo[1];
+               
                             lst.List.Add(textAndStyle);
+                            lst.List.Add(text);
                             for (var k = 0; k < 5; k++)
                             {
-                                grid.Rows[z].Cells[k].Value = lst;
-
+                                
+                                    grid.Rows[z].Cells[k].Value = lst;
+                                
                             }
                             PdfLayoutResult result = grid.Draw(page, new PointF(10, 30));
 
@@ -119,7 +135,8 @@ namespace qrCode_generation.Controllers
   
                 ViewBag.Message = "File Uploaded Successfully!!";
                 return View();
-                
+
+
             }
             catch
             {
