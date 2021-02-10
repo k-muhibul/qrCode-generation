@@ -1,20 +1,17 @@
-﻿@{
+﻿@model IEnumerable<qrCode_generation.ViewModel.QRViewModel>
+
+
+
+@{
     ViewBag.Title = "UploadFile";
 }
 
 <h2>UploadFile</h2>
 
-@using (Html.BeginForm("UploadFile", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+
+@foreach (var item in Model)
 {
-
-    <div>
-        @Html.TextBox("file", "", new { type = "file" }) <br />
-
-        <input type="submit" value="Upload" />
-
-        @ViewBag.Message
-
-    </div>
-
-
-} 
+  <h1>hello</h1>
+@*<img src="@String.Format("data:image/jpg;base64,{0}", item.Image)" />*@
+}
