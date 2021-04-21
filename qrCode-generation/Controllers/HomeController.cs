@@ -77,7 +77,7 @@ namespace qrCode_generation.Controllers
                             
                             QRCodeData qrCodeData = qrGenerator.CreateQrCode(csvData[g], QRCodeGenerator.ECCLevel.Q);
                             QRCode qrCode = new QRCode(qrCodeData);
-                            Bitmap qrCodeImage = qrCode.GetGraphic(100);
+                            Bitmap qrCodeImage = qrCode.GetGraphic(25);
                             var codeBitmap = new Bitmap(qrCodeImage);
                             var bitmaptobyte = BitmapToBytes(codeBitmap);
                             Image image = (Image)codeBitmap;
